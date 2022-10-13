@@ -1,4 +1,4 @@
-# Instagram Clone using Flutter and Firebase to build a responsive website
+# Instagram Clone using Flutter and Firebase
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
